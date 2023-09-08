@@ -1,4 +1,5 @@
 <?php
+hello
 session_start();
 //mysqli databse connection
 const DB_NAME ='pictogram';
